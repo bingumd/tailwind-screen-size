@@ -1,0 +1,27 @@
+# Editors config
+.settings
+.project
+.vscode
+.idea
+
+# Node.js
+node_modules
+yarn-debug.log*
+yarn-error.log*
+
+# dotenv environment variables file
+.env
+
+# Output directory
+dist
+
+# Windows
+Thumbs.db
+
+# Mac OS X
+.DS_Store
+._.*
+._*
+
+# Misc
+*.zip
